@@ -1,11 +1,7 @@
 ## New Implementation Document Link: 
 https://docs.google.com/document/d/1HOrSA3KDir69Q8qMGpWXA_l4ydo7PO1_2TjXnyy-GYI/edit?tab=t.0
 
-Start with cloning this repo on your local machine:
-
-```sh
-$ git clone https://bitbucket-private-repo
-```
+Start with cloning this repo on your local machine
 
 To install and set up the library, run:
 
@@ -20,7 +16,8 @@ $ npm install
 ### Serving the app
 
 ```sh
-$ npm start
+$ npm start ( backend)
+$ npm run dev (frontend)
 ```
 ### Running the tests
 
