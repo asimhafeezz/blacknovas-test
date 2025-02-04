@@ -1,0 +1,26 @@
+[
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "EUR",
+    "originalAmount": 1,
+    "convertedAmount": 0.971,
+    "rate": 0.971,
+    "timestamp": "2025-02-04T19:24:25.339Z"
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "EUR",
+    "originalAmount": "92",
+    "convertedAmount": 89.332,
+    "rate": 0.971,
+    "timestamp": "2025-02-04T19:24:43.828Z"
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "EUR",
+    "originalAmount": "7",
+    "convertedAmount": 6.797,
+    "rate": 0.971,
+    "timestamp": "2025-02-04T19:25:25.470Z"
+  }
+]
