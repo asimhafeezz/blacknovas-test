@@ -1,3 +1,6 @@
+## New Implementation Document Link: 
+https://docs.google.com/document/d/1HOrSA3KDir69Q8qMGpWXA_l4ydo7PO1_2TjXnyy-GYI/edit?tab=t.0
+
 Start with cloning this repo on your local machine:
 
 ```sh
